@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/61043bb0-3bd6-4040-b31e-00ba224d8220)# Titanic_Spaceship
+# Titanic_Spaceship
 
 ## Introduction
 The Spaceship Titanic project is a comprehensive machine learning and data analysis workflow designed to predict passenger outcomes on the fictional Spaceship Titanic. Leveraging Python, advanced libraries like CatBoost, and Jupyter Notebooks, this project provides insights into predictive modeling, data preprocessing, and visualization.
@@ -56,22 +56,21 @@ Use the Flask web application to input passenger details and get predictions.
 ## Screenshots
 Include screenshots or visualizations from the notebook or application. Below are placeholders:
 
-![Home page][image](https://github.com/user-attachments/assets/7bc19d25-cc1f-4941-af7e-f73b7259a30d)
+### Home Page
+![Home Page](https://github.com/user-attachments/assets/7bc19d25-cc1f-4941-af7e-f73b7259a30d)
 
+### Upload Data
+![Upload Data](https://github.com/user-attachments/assets/0466d27c-84d3-4d61-b222-cac39ed7e0c3)
 
-![Upload Data][image](https://github.com/user-attachments/assets/0466d27c-84d3-4d61-b222-cac39ed7e0c3)
+### Train Model
+![Train Model](https://github.com/user-attachments/assets/0ecf161a-29c2-4356-b495-0d0ff863e21c)
 
+### Make Prediction
+![Make Prediction](https://github.com/user-attachments/assets/7b8a71b5-1a8b-45ed-a681-9c1ffd86804d)
 
-![Train Model][image](https://github.com/user-attachments/assets/0ecf161a-29c2-4356-b495-0d0ff863e21c)
-
- 
-![Make prediction][image](https://github.com/user-attachments/assets/7b8a71b5-1a8b-45ed-a681-9c1ffd86804d)
-
-
-Data Visualization
-![image](https://github.com/user-attachments/assets/eeab9848-a9ab-429d-90b6-b0f6e3058800)
-
-![image](https://github.com/user-attachments/assets/b857ad6e-270c-4ef9-a6b9-9c4eed7bf182)
+### Data Visualization
+![Transport Feature](https://github.com/user-attachments/assets/eeab9848-a9ab-429d-90b6-b0f6e3058800)
+![Age Distribution](https://github.com/user-attachments/assets/b857ad6e-270c-4ef9-a6b9-9c4eed7bf182)
 
 ![image](https://github.com/user-attachments/assets/8d36807f-fc30-49e8-9df2-b92ace3ce338)
 
