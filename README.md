@@ -74,8 +74,6 @@ Include screenshots or visualizations from the notebook or application. Below ar
 
 ![image](https://github.com/user-attachments/assets/8d36807f-fc30-49e8-9df2-b92ace3ce338)
 
-![image](https://github.com/user-attachments/assets/4cd8d38f-68a1-4d7d-8822-523aa2d56d80)
-
 ![image](https://github.com/user-attachments/assets/caf1b24f-0ee3-4c6c-974d-ad1493b8a106)
 
 ![image](https://github.com/user-attachments/assets/cfcf81ca-4737-4470-be7d-7106defe0c88)
