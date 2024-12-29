@@ -39,9 +39,9 @@ Key objectives of this project:
 4. Open your browser and navigate to http://localhost:5000 to access the application.
 
 ## Dataset
-Train Dataset: train (1).csv
-Test Dataset: test (1).csv
-Prediction Results: spaceship_prediction_project.csv
+- ** Train Dataset: train (1).csv
+- ** Test Dataset: test (1).csv
+- ** Prediction Results: spaceship_prediction_project.csv
 
 ## Usage
 For Analysis:
